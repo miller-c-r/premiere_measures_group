@@ -1,6 +1,7 @@
 ---
 title: "Reappraising Test Anxiety: A Slide Deck"
 date: "2023-10-04"
+image: "IMG_1783.JPG"
 
 ---
 
