@@ -1,16 +1,8 @@
 ---
 title: "Reappraising Test Anxiety: A Slide Deck"
-format:
-  revealjs:
-    theme: moon
-editor: visual
-execute:
-  echo: false
+date: "2023-10-04"
+
 ---
-
-### Back to Home
-
-[Main Page Please :)](premiere_measures_group/index.qmd)
 
 #### Presentation brought to you by:
 
@@ -22,28 +14,5 @@ execute:
 
 Reappraising Test Anxiety Increases Academic Performance of First-Year College Students
 
-## Key Terms
 
-1.  Cognitive Reappraisal
-
-2.  Test Anxiety
-
-3.  Anxiety Reappraisal Interventions
-
-## Background
-
-## Question
-
-1.  Broad Question
-
-2.  Specific Question
-
-## Methods
-
-1.  Subjects
-
-## Results
-
-## Discussion
-
-## Limitations
+[The Slide Deck](slides_here/slides2.qmd)

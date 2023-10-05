@@ -22,5 +22,5 @@ Click on the Posts Below more Information
 :::
 
 ::: callout-tip
-Navigate back to the main screen from the slideshow by using the URL
+Navigate back to the main screen from the slideshow by clicking the menu in the bottom left of the slide deck
 :::

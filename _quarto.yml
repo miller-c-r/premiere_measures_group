@@ -1,14 +1,18 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "some_slides/"
 
 website:
   title: "Journal Assignment: Cognitive Reappraisal"
   navbar:
-    right:
+    left:
       - about.qmd
       - icon: github
         href: https://github.com/
+      - moi_slides.qmd
+  
       
 format:
   html:

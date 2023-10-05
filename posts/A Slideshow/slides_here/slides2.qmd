@@ -1,0 +1,49 @@
+---
+title: "Reappraising Test Anxiety: A Slide Deck"
+format:
+  revealjs:
+    theme: moon
+editor: visual
+execute:
+  echo: false
+---
+
+### Back to Home
+
+[Main Page Link](https://miller-c-r.github.io/premiere_measures_group/)
+
+#### Presentation brought to you by:
+
+1.  Chantal M
+
+2.  "C..."
+
+## Article Title
+
+Reappraising Test Anxiety Increases Academic Performance of First-Year College Students
+
+## Key Terms
+
+1.  Cognitive Reappraisal
+
+2.  Test Anxiety
+
+3.  Anxiety Reappraisal Interventions
+
+## Background
+
+## Question
+
+1.  Broad Question
+
+2.  Specific Question
+
+## Methods
+
+1.  Subjects
+
+## Results
+
+## Discussion
+
+## Limitations
